@@ -1,0 +1,733 @@
+﻿Log file open, 05/01/18 21:02:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Sailing
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1768370040) SRandInit(1768370040).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.151096
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.946s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Stephen-PC (169.254.199.241:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3944462
+LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 13 2018 23:12:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.02-01.02.38:371][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.02-01.02.38:371][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.02-01.02.38:409][  0]LogInit: Computer: STEPHEN-PC
+[2018.05.02-01.02.38:409][  0]LogInit: User: Stephen
+[2018.05.02-01.02.38:409][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.02-01.02.38:409][  0]LogInit: High frequency timer resolution =3.326132 MHz
+[2018.05.02-01.02.38:409][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.05.02-01.02.38:409][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.02-01.02.38:409][  0]LogMemory: Process Physical Memory: 275.05 MB used, 275.05 MB peak
+[2018.05.02-01.02.38:409][  0]LogMemory: Process Virtual Memory: 268.62 MB used, 268.62 MB peak
+[2018.05.02-01.02.38:409][  0]LogMemory: Physical Memory: 2259.19 MB used,  5871.07 MB free, 8130.26 MB total
+[2018.05.02-01.02.38:409][  0]LogMemory: Virtual Memory: 638.45 MB used,  5871.07 MB free, 8388608.00 MB total
+[2018.05.02-01.02.38:442][  0]LogInit: Using OS detected language (en-US).
+[2018.05.02-01.02.38:442][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.02-01.02.38:444][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.02-01.02.38:835][  0]LogStreaming: Display: Took  0.393s to EndInitTextLocalization.
+[2018.05.02-01.02.38:835][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.05.02-01.02.38:835][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.05.02-01.02.38:835][  0]LogInit: Setting process to DPI aware
+[2018.05.02-01.02.38:837][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.05.02-01.02.38:837][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.05.02-01.02.38:837][  0]LogInit: Setting process to DPI aware
+[2018.05.02-01.02.38:853][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.02-01.02.38:853][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.02-01.02.38:981][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.02-01.02.38:994][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 780' (Feature Level 11_0)
+[2018.05.02-01.02.38:994][  0]LogD3D11RHI:       3013/0/3809 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.02-01.02.38:994][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.02-01.02.38:998][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.02-01.02.38:998][  0]LogD3D11RHI:     GPU DeviceId: 0x1004 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.02-01.02.38:998][  0]LogWindows: EnumDisplayDevices:
+[2018.05.02-01.02.38:998][  0]LogWindows:    0. 'NVIDIA GeForce GTX 780' (P:1 D:1)
+[2018.05.02-01.02.38:998][  0]LogWindows:    1. 'NVIDIA GeForce GTX 780' (P:0 D:0)
+[2018.05.02-01.02.38:998][  0]LogWindows:    2. 'NVIDIA GeForce GTX 780' (P:0 D:0)
+[2018.05.02-01.02.38:998][  0]LogWindows:    3. 'NVIDIA GeForce GTX 780' (P:0 D:0)
+[2018.05.02-01.02.38:998][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2018.05.02-01.02.38:998][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.05.02-01.02.38:998][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.05.02-01.02.38:998][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.05.02-01.02.38:998][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 780
+[2018.05.02-01.02.38:998][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2018.05.02-01.02.38:998][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2018.05.02-01.02.38:998][  0]LogRHI: Texture pool is 2109 MB (70% of 3013 MB)
+[2018.05.02-01.02.39:005][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.05.02-01.02.39:005][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.02-01.02.39:020][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.02-01.02.39:021][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/Stephen/Documents/Unreal Projects/Sailing/Intermediate/Shaders/WorkingDirectory/6608/).
+[2018.05.02-01.02.39:021][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Stephen/AppData/Local/Temp/UnrealShaderWorkingDir/D7025DA04158C37B1959128CE52544FE/'.
+[2018.05.02-01.02.39:525][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.02-01.02.39:536][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.02-01.02.39:548][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.02-01.02.39:559][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.02-01.02.39:571][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.02-01.02.39:583][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.02-01.02.39:595][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.02-01.02.39:606][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.02-01.02.39:612][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.02-01.02.39:622][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.02-01.02.39:632][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.02-01.02.39:643][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.02-01.02.39:653][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.02-01.02.39:664][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.02-01.02.39:675][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.02-01.02.39:696][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.02-01.02.39:696][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.02-01.02.39:706][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.02-01.02.39:707][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.02-01.02.39:739][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.02-01.02.39:749][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.02-01.02.39:759][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.02-01.02.39:770][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.02-01.02.39:780][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.02-01.02.39:791][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.02-01.02.39:791][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.02-01.02.39:852][  0]LogXGEController: Cleaning working directory: C:/Users/Stephen/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.05.02-01.02.39:852][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.02-01.02.39:852][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.02-01.02.39:852][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.02-01.02.40:471][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.02-01.02.40:556][  0]LogDerivedDataCache: Loaded boot cache 0.09s 74MB C:/Users/Stephen/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.02-01.02.40:556][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Stephen/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.02-01.02.40:556][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Stephen/Documents/Unreal Projects/Sailing/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.02-01.02.40:556][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.02-01.02.40:556][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Stephen/Documents/Unreal Projects/Sailing/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.02-01.02.40:556][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.02-01.02.40:573][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.02-01.02.40:584][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Stephen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.02-01.02.40:595][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.02-01.02.40:595][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.02-01.02.40:596][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.02-01.02.40:596][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.02-01.02.40:684][  0]LogAssetRegistry: FAssetRegistry took 0.0236 seconds to start up
+[2018.05.02-01.02.40:944][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.02-01.02.41:082][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.02-01.02.41:083][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.02-01.02.41:083][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.02-01.02.41:083][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.02-01.02.41:083][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.02-01.02.41:083][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.02-01.02.41:102][  0]LogNetVersion: Sailing , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1944841728)
+[2018.05.02-01.02.41:837][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.218244 seconds
+[2018.05.02-01.02.41:844][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.02-01.02.41:844][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.05.02-01.02.41:844][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.02-01.02.43:108][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.02-01.02.43:127][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.02-01.02.43:362][  0]SourceControl: Source control is disabled
+[2018.05.02-01.02.43:362][  0]SourceControl: Source control is disabled
+[2018.05.02-01.02.43:371][  0]SourceControl: Source control is disabled
+[2018.05.02-01.02.43:379][  0]SourceControl: Source control is disabled
+[2018.05.02-01.02.43:803][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.02-01.02.43:917][  0]LogOcInput: OculusInput pre-init called
+[2018.05.02-01.02.43:991][  0]LogEngine: Initializing Engine...
+[2018.05.02-01.02.43:992][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2018.05.02-01.02.43:993][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.02-01.02.43:993][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.02-01.02.44:207][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.02-01.02.44:232][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.02-01.02.44:251][  0]LogInit: FAudioDevice initialized.
+[2018.05.02-01.02.44:443][  0]LogDerivedDataCache: Saved boot cache 0.19s 74MB C:/Users/Stephen/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.02-01.02.44:469][  0]LogInit: Texture streaming: Enabled
+[2018.05.02-01.02.44:494][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.02-01.02.44:509][  0]LogInit: Transaction tracking system initialized
+[2018.05.02-01.02.44:537][  0]BlueprintLog: New page: Editor Load
+[2018.05.02-01.02.44:590][  0]LocalizationService: Localization service is disabled
+[2018.05.02-01.02.44:653][  0]LogConsoleResponse: Display: 
+[2018.05.02-01.02.44:794][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.02-01.02.44:794][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.02-01.02.44:794][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.02-01.02.44:794][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.02-01.02.44:794][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.02-01.02.44:911][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Stephen/Documents/Unreal Projects/Sailing/Content/' took 0.01s
+[2018.05.02-01.02.44:999][  0]SourceControl: Source control is disabled
+[2018.05.02-01.02.44:999][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Stephen/Documents/Unreal Projects/Sailing/Content/FlyingBP/Maps/FlyingExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.02-01.02.45:000][  0]LightingResults: New page: Lighting Build
+[2018.05.02-01.02.45:001][  0]MapCheck: New page: Map Check
+[2018.05.02-01.02.45:001][  0]LightingResults: New page: Lighting Build
+[2018.05.02-01.02.47:147][  0]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.05.02-01.02.47:162][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.02-01.02.47:215][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.02-01.02.47:261][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 45.557ms to complete.
+[2018.05.02-01.02.47:261][  0]LogFileHelpers: Loading map 'FlyingExampleMap' took 2.262
+[2018.05.02-01.02.47:361][  0]LogCollectionManager: Loaded 0 collections in 0.001227 seconds
+[2018.05.02-01.02.47:396][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Stephen/Documents/Unreal Projects/Sailing/Saved/Collections/' took 0.01s
+[2018.05.02-01.02.47:396][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Stephen/Documents/Unreal Projects/Sailing/Content/Developers/Stephen/Collections/' took 0.01s
+[2018.05.02-01.02.47:396][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Stephen/Documents/Unreal Projects/Sailing/Content/Collections/' took 0.01s
+[2018.05.02-01.02.47:396][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.02-01.02.47:404][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2452 classes and 558 folders.
+[2018.05.02-01.02.47:409][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.02-01.02.47:435][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.02-01.02.47:439][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.05.02-01.02.47:462][  0]LogSlate: Took 0.000424 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.02-01.02.47:466][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.02-01.02.47:468][  0]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.02-01.02.47:542][  0]LogRenderer: Reallocating scene render targets to support 1528x576 Format 10 NumSamples 1 (Frame:1).
+[2018.05.02-01.02.47:700][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.02-01.02.47:700][  0]LogLoad: (Engine Initialization) Total time: 12.00 seconds
+[2018.05.02-01.02.47:700][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.02-01.02.47:728][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.02-01.02.47:761][  0]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.02-01.02.47:850][  1]LogAssetRegistry: Asset discovery search completed in 7.1863 seconds
+[2018.05.02-01.02.47:854][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.05.02-01.02.47:854][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000085 seconds (updated 0 objects)
+[2018.05.02-01.02.48:723][ 95]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.02-01.02.52:336][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-01.02.52:394][522]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-01.02.52:404][522]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.02.52:404][522]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-01.02.52:405][522]PIE: New page: PIE session: FlyingExampleMap (May 1, 2018, 5:02:52 PM)
+[2018.05.02-01.02.52:405][522]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.05.02-01.02.52:434][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029514s)
+[2018.05.02-01.02.52:435][522]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.05.02-01.02.52:436][522]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2018.05.02-01.02.52:436][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.030802s)
+[2018.05.02-01.02.52:454][522]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.02-01.02.52:459][522]LogInit: FAudioDevice initialized.
+[2018.05.02-01.02.52:500][522]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.05.02-01.02.52:502][522]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.05.01-21.02.52
+[2018.05.02-01.02.52:502][522]LogWorld: Bringing up level for play took: 0.001206
+[2018.05.02-01.02.52:504][522]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.05.02-01.02.52:506][522]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 0.239
+[2018.05.02-01.02.52:506][522]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.02.54:985][812]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.02.55:014][812]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.03.02:452][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-01.03.02:861][714]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.05.02-01.03.03:507][714]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.02-01.03.03:699][715]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.02-01.03.38:804][613]BlueprintLog: New page: Compile FlyingPawn
+[2018.05.02-01.03.42:013][892]LogEditorViewport: Clicking on Actor (LMB): FlyingPawn_C (FlyingPawn)
+[2018.05.02-01.03.49:282][674]LogEditorViewport: Clicking on Actor (LMB): Windsock_C (Windsock)
+[2018.05.02-01.03.52:929][105]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-01.04.18:018][ 93]LogEditorViewport: Clicking on Actor (LMB): Windsock_C (Windsock2)
+[2018.05.02-01.04.21:450][495]Cmd: DELETE
+[2018.05.02-01.04.21:450][495]Cmd: ACTOR DELETE
+[2018.05.02-01.04.21:629][495]LogEditorActor: Deleted Actor: Windsock_C
+[2018.05.02-01.04.21:678][495]LogEditorActor: Deleted 1 Actors (0.106 secs)
+[2018.05.02-01.04.25:690][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-01.04.25:740][981]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-01.04.25:762][981]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.04.25:762][981]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-01.04.25:763][981]PIE: New page: PIE session: FlyingExampleMap (May 1, 2018, 5:04:25 PM)
+[2018.05.02-01.04.25:763][981]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.05.02-01.04.25:784][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021010s)
+[2018.05.02-01.04.25:785][981]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.05.02-01.04.25:785][981]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2018.05.02-01.04.25:785][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.022146s)
+[2018.05.02-01.04.25:808][981]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.02-01.04.25:814][981]LogInit: FAudioDevice initialized.
+[2018.05.02-01.04.25:844][981]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.05.02-01.04.25:845][981]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.05.01-21.04.25
+[2018.05.02-01.04.25:845][981]LogWorld: Bringing up level for play took: 0.000967
+[2018.05.02-01.04.25:847][981]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap -0.421
+[2018.05.02-01.04.25:847][981]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.04.32:613][789]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.04.32:645][789]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.04.34:829][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-01.04.46:955][220]BlueprintLog: New page: Compile FlyingPawn
+[2018.05.02-01.04.49:291][425]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-01.04.49:313][425]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.04.49:313][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-01.04.49:313][425]PIE: New page: PIE session: FlyingExampleMap (May 1, 2018, 5:04:49 PM)
+[2018.05.02-01.04.49:313][425]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.05.02-01.04.49:334][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021197s)
+[2018.05.02-01.04.49:335][425]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.05.02-01.04.49:336][425]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2018.05.02-01.04.49:336][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.022491s)
+[2018.05.02-01.04.49:359][425]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.02-01.04.49:364][425]LogInit: FAudioDevice initialized.
+[2018.05.02-01.04.49:394][425]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.05.02-01.04.49:396][425]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.05.01-21.04.49
+[2018.05.02-01.04.49:396][425]LogWorld: Bringing up level for play took: 0.001005
+[2018.05.02-01.04.49:397][425]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap -0.87
+[2018.05.02-01.04.49:397][425]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.05.02:408][982]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.05.02:437][982]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.05.07:485][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-01.05.07:552][580]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-01.05.07:562][580]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.05.07:562][580]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-01.05.07:562][580]PIE: New page: PIE session: FlyingExampleMap (May 1, 2018, 5:05:07 PM)
+[2018.05.02-01.05.07:562][580]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.05.02-01.05.07:579][580]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016766s)
+[2018.05.02-01.05.07:580][580]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.05.02-01.05.07:580][580]LogPlayLevel: PIE: World Init took: (0.000996s)
+[2018.05.02-01.05.07:580][580]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.018001s)
+[2018.05.02-01.05.07:604][580]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.02-01.05.07:609][580]LogInit: FAudioDevice initialized.
+[2018.05.02-01.05.07:635][580]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.05.02-01.05.07:636][580]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.05.01-21.05.07
+[2018.05.02-01.05.07:636][580]LogWorld: Bringing up level for play took: 0.000892
+[2018.05.02-01.05.07:637][580]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap -0.63
+[2018.05.02-01.05.07:637][580]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.05.08:500][680]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.05.08:532][680]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.05.15:796][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
+[2018.05.02-01.05.16:562][618]LogEditorViewport: Clicking on Actor (LMB): FlyingPawn_C (FlyingPawn)
+[2018.05.02-01.05.17:611][735]LogEditorViewport: Clicking on Actor (LMB): FlyingPawn_C (FlyingPawn)
+[2018.05.02-01.05.17:729][745]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2018.05.02-01.05.55:793][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-01.05.55:876][242]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-01.05.55:886][242]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.05.55:886][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-01.05.55:886][242]PIE: New page: PIE session: FlyingExampleMap (May 1, 2018, 5:05:55 PM)
+[2018.05.02-01.05.55:886][242]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.05.02-01.05.55:908][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022220s)
+[2018.05.02-01.05.55:909][242]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.05.02-01.05.55:909][242]LogPlayLevel: PIE: World Init took: (0.001176s)
+[2018.05.02-01.05.55:910][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.023587s)
+[2018.05.02-01.05.55:977][242]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.02-01.05.55:987][242]LogInit: FAudioDevice initialized.
+[2018.05.02-01.05.56:017][242]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.05.02-01.05.56:019][242]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.05.01-21.05.56
+[2018.05.02-01.05.56:019][242]LogWorld: Bringing up level for play took: 0.001853
+[2018.05.02-01.05.56:022][242]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap -0.246
+[2018.05.02-01.05.56:022][242]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.06.05:899][421]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.06.05:931][421]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.06.07:239][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-01.06.09:497][775]LogRenderer: Reallocating scene render targets to support 1528x652 Format 10 NumSamples 1 (Frame:1).
+[2018.05.02-01.06.11:449][999]LogSlate: Window 'FlyingPawn*' being destroyed
+[2018.05.02-01.06.11:451][999]LogSlate: Window 'FlyingPawn*' being destroyed
+[2018.05.02-01.06.20:193][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-01.06.20:260][ 42]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-01.06.20:269][ 42]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.06.20:269][ 42]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-01.06.20:269][ 42]PIE: New page: PIE session: FlyingExampleMap (May 1, 2018, 5:06:20 PM)
+[2018.05.02-01.06.20:269][ 42]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.05.02-01.06.20:287][ 42]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017560s)
+[2018.05.02-01.06.20:288][ 42]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.05.02-01.06.20:288][ 42]LogPlayLevel: PIE: World Init took: (0.001153s)
+[2018.05.02-01.06.20:288][ 42]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.018947s)
+[2018.05.02-01.06.20:311][ 42]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.02-01.06.20:317][ 42]LogInit: FAudioDevice initialized.
+[2018.05.02-01.06.20:344][ 42]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.05.02-01.06.20:346][ 42]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.05.01-21.06.20
+[2018.05.02-01.06.20:347][ 42]LogWorld: Bringing up level for play took: 0.001915
+[2018.05.02-01.06.20:350][ 42]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 0.081
+[2018.05.02-01.06.20:350][ 42]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.06.21:374][158]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.06.21:403][158]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.06.23:309][378]LogEditorViewport: Clicking on Actor (LMB): FlyingPawn_C (FlyingPawn)
+[2018.05.02-01.06.47:584][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
+[2018.05.02-01.06.48:871][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-01.06.48:963][415]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-01.06.48:972][415]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.06.48:972][415]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-01.06.48:973][415]PIE: New page: PIE session: FlyingExampleMap (May 1, 2018, 5:06:48 PM)
+[2018.05.02-01.06.48:973][415]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.05.02-01.06.48:991][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018126s)
+[2018.05.02-01.06.48:992][415]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.05.02-01.06.48:992][415]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2018.05.02-01.06.48:992][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.019443s)
+[2018.05.02-01.06.49:016][415]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.02-01.06.49:021][415]LogInit: FAudioDevice initialized.
+[2018.05.02-01.06.49:048][415]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.05.02-01.06.49:050][415]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.05.01-21.06.49
+[2018.05.02-01.06.49:050][415]LogWorld: Bringing up level for play took: 0.001031
+[2018.05.02-01.06.49:051][415]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 0.782
+[2018.05.02-01.06.49:051][415]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.06.50:953][640]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.06.50:983][640]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.06.55:231][131]LogEditorViewport: Clicking on Actor (LMB): FlyingPawn_C (FlyingPawn)
+[2018.05.02-01.06.56:931][323]Cmd: TRANSACTION UNDO
+[2018.05.02-01.06.56:931][323]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.02-01.06.58:112][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
+[2018.05.02-01.06.58:733][524]Cmd: TRANSACTION UNDO
+[2018.05.02-01.06.58:733][524]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.02-01.06.59:713][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
+[2018.05.02-01.07.00:478][726]Cmd: TRANSACTION UNDO
+[2018.05.02-01.07.00:478][726]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.02-01.07.01:152][806]Cmd: TRANSACTION UNDO
+[2018.05.02-01.07.01:152][806]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.02-01.07.02:439][953]Cmd: TRANSACTION UNDO
+[2018.05.02-01.07.02:439][953]LogEditorTransaction: Undo Scale Actors
+[2018.05.02-01.07.03:001][ 17]Cmd: TRANSACTION UNDO
+[2018.05.02-01.07.03:001][ 17]LogEditorTransaction: Undo Scale Actors
+[2018.05.02-01.07.07:732][562]LogEditorViewport: Clicking on Actor (LMB): FlyingPawn_C (FlyingPawn)
+[2018.05.02-01.07.08:370][635]LogEditorViewport: Clicking on Actor (LMB): FlyingPawn_C (FlyingPawn)
+[2018.05.02-01.07.08:611][661]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Plane mesh)
+[2018.05.02-01.07.08:836][683]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Plane mesh)
+[2018.05.02-01.07.09:475][757]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Plane mesh)
+[2018.05.02-01.07.10:320][855]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Plane mesh)
+[2018.05.02-01.07.10:460][867]LogEditorViewport: Clicking on Actor (double click): FlyingPawn_C (FlyingPawn)
+[2018.05.02-01.07.19:360][931]LogEditorViewport: Clicking on Actor (LMB): FlyingPawn_C (FlyingPawn)
+[2018.05.02-01.07.19:809][982]LogEditorViewport: Clicking on Actor (LMB): FlyingPawn_C (FlyingPawn)
+[2018.05.02-01.07.19:883][988]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2018.05.02-01.07.21:109][128]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Plane mesh)
+[2018.05.02-01.07.21:201][131]LogEditorViewport: Clicking on Actor (double click): FlyingPawn_C (FlyingPawn)
+[2018.05.02-01.07.38:971][248]LogEditorViewport: Clicking on Actor (LMB): FlyingPawn_C (FlyingPawn)
+[2018.05.02-01.07.40:179][390]LogEditorViewport: Clicking on Actor (LMB): FlyingPawn_C (FlyingPawn)
+[2018.05.02-01.07.40:277][399]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2018.05.02-01.07.43:188][741]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Plane mesh)
+[2018.05.02-01.08.05:338][357]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2018.05.02-01.08.05:431][359]LogEditorViewport: Clicking on Actor (double click): FlyingPawn_C (FlyingPawn)
+[2018.05.02-01.08.05:677][384]LogEditorViewport: Clicking on Actor (LMB): FlyingPawn_C (FlyingPawn)
+[2018.05.02-01.08.06:356][463]LogEditorViewport: Clicking on Actor (LMB): FlyingPawn_C (FlyingPawn)
+[2018.05.02-01.08.06:461][473]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2018.05.02-01.08.27:569][969]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2018.05.02-01.08.31:115][392]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2018.05.02-01.08.31:195][399]LogEditorViewport: Clicking on Actor (double click): FlyingPawn_C (FlyingPawn)
+[2018.05.02-01.08.32:168][511]LogEditorViewport: Clicking on Actor (LMB): FlyingPawn_C (FlyingPawn)
+[2018.05.02-01.08.32:224][515]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2018.05.02-01.09.13:825][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-01.09.13:909][479]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-01.09.13:918][479]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.09.13:919][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-01.09.13:919][479]PIE: New page: PIE session: FlyingExampleMap (May 1, 2018, 5:09:13 PM)
+[2018.05.02-01.09.13:919][479]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.05.02-01.09.13:939][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020223s)
+[2018.05.02-01.09.13:940][479]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.05.02-01.09.13:940][479]LogPlayLevel: PIE: World Init took: (0.001059s)
+[2018.05.02-01.09.13:940][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.021525s)
+[2018.05.02-01.09.13:988][479]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.02-01.09.14:004][479]LogInit: FAudioDevice initialized.
+[2018.05.02-01.09.14:033][479]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.05.02-01.09.14:035][479]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.05.01-21.09.14
+[2018.05.02-01.09.14:035][479]LogWorld: Bringing up level for play took: 0.001032
+[2018.05.02-01.09.14:036][479]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap -0.235
+[2018.05.02-01.09.14:036][479]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.09.34:514][933]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.09.34:540][933]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.09.36:379][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-01.09.36:462][156]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-01.09.36:472][156]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.09.36:472][156]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-01.09.36:472][156]PIE: New page: PIE session: FlyingExampleMap (May 1, 2018, 5:09:36 PM)
+[2018.05.02-01.09.36:472][156]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.05.02-01.09.36:490][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017531s)
+[2018.05.02-01.09.36:491][156]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.05.02-01.09.36:491][156]LogPlayLevel: PIE: World Init took: (0.001009s)
+[2018.05.02-01.09.36:491][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.018744s)
+[2018.05.02-01.09.36:513][156]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.02-01.09.36:518][156]LogInit: FAudioDevice initialized.
+[2018.05.02-01.09.36:546][156]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.05.02-01.09.36:548][156]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.05.01-21.09.36
+[2018.05.02-01.09.36:548][156]LogWorld: Bringing up level for play took: 0.001695
+[2018.05.02-01.09.36:551][156]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 0.278
+[2018.05.02-01.09.36:551][156]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.09.38:003][324]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.09.38:031][324]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.09.46:540][321]LogEditorViewport: Clicking on Actor (LMB): FlyingPawn_C (FlyingPawn)
+[2018.05.02-01.09.52:567][ 24]LogEditorViewport: Clicking on Actor (LMB): FlyingPawn_C (FlyingPawn)
+[2018.05.02-01.09.52:655][ 32]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2018.05.02-01.10.02:612][167]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2018.05.02-01.10.07:515][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-01.10.07:615][762]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-01.10.07:625][762]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.10.07:625][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-01.10.07:625][762]PIE: New page: PIE session: FlyingExampleMap (May 1, 2018, 5:10:07 PM)
+[2018.05.02-01.10.07:625][762]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.05.02-01.10.07:641][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015612s)
+[2018.05.02-01.10.07:642][762]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.05.02-01.10.07:642][762]LogPlayLevel: PIE: World Init took: (0.001205s)
+[2018.05.02-01.10.07:642][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.016999s)
+[2018.05.02-01.10.07:693][762]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.02-01.10.07:703][762]LogInit: FAudioDevice initialized.
+[2018.05.02-01.10.07:737][762]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.05.02-01.10.07:740][762]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.05.01-21.10.07
+[2018.05.02-01.10.07:740][762]LogWorld: Bringing up level for play took: 0.001942
+[2018.05.02-01.10.07:743][762]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap -0.529
+[2018.05.02-01.10.07:743][762]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.10.13:484][445]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.10.13:511][445]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.10.17:544][916]LogEditorViewport: Clicking on Actor (LMB): FlyingPawn_C (FlyingPawn)
+[2018.05.02-01.10.21:836][400]LogEditorViewport: Clicking on Actor (LMB): CameraActor (StartingLocationCamera)
+[2018.05.02-01.10.25:984][872]LogEditorViewport: Clicking on Actor (LMB): FlyingPawn_C (FlyingPawn)
+[2018.05.02-01.10.35:207][962]LogEditorViewport: Clicking on Actor (LMB): FlyingPawn_C (FlyingPawn)
+[2018.05.02-01.10.35:296][970]LogEditorViewport: Clicking on Component (LMB): CameraComponent (Camera)
+[2018.05.02-01.10.40:376][570]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.02-01.10.40:443][578]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-01.10.40:452][578]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.10.40:453][578]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-01.10.40:453][578]PIE: New page: PIE session: FlyingExampleMap (May 1, 2018, 5:10:40 PM)
+[2018.05.02-01.10.40:453][578]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2018.05.02-01.10.40:468][578]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015427s)
+[2018.05.02-01.10.40:469][578]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2018.05.02-01.10.40:469][578]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2018.05.02-01.10.40:469][578]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.016631s)
+[2018.05.02-01.10.40:516][578]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.02-01.10.40:521][578]LogInit: FAudioDevice initialized.
+[2018.05.02-01.10.40:548][578]LogLoad: Game class is 'FlyingGameMode_C'
+[2018.05.02-01.10.40:550][578]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2018.05.01-21.10.40
+[2018.05.02-01.10.40:550][578]LogWorld: Bringing up level for play took: 0.001018
+[2018.05.02-01.10.40:551][578]PIE: Play in editor start time for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap 0.279
+[2018.05.02-01.10.40:551][578]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.10.47:724][435]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.10.47:752][435]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap' with GeneratedClass '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap_C' with ClassGeneratedBy '/Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingExampleMap'
+[2018.05.02-01.10.50:298][721]Cmd: TRANSACTION UNDO
+[2018.05.02-01.10.50:298][721]LogEditorTransaction: Undo Scale Components
+[2018.05.02-01.10.50:576][751]Cmd: TRANSACTION UNDO
+[2018.05.02-01.10.50:576][751]LogEditorTransaction: Undo Clicking on Components
+[2018.05.02-01.10.50:797][773]Cmd: TRANSACTION UNDO
+[2018.05.02-01.10.50:797][773]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.02-01.10.51:013][790]Cmd: TRANSACTION UNDO
+[2018.05.02-01.10.51:013][790]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.02-01.10.51:488][833]Cmd: TRANSACTION UNDO
+[2018.05.02-01.10.51:488][833]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.02-01.10.51:821][863]Cmd: TRANSACTION UNDO
+[2018.05.02-01.10.51:821][863]LogEditorTransaction: Undo Clicking on Actors
+[2018.05.02-01.10.52:183][902]Cmd: TRANSACTION UNDO
+[2018.05.02-01.10.52:183][902]LogEditorTransaction: Undo Scale Components
+[2018.05.02-01.10.52:437][931]Cmd: TRANSACTION UNDO
+[2018.05.02-01.10.52:437][931]LogEditorTransaction: Undo Clicking on Components
+[2018.05.02-01.10.53:869][931]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.420 s
+[2018.05.02-01.10.53:869][931]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.02-01.10.53:869][931]LogOutputDevice: Error: 
+[2018.05.02-01.10.53:869][931]LogOutputDevice: Error: Ensure condition failed: bIsOwnerSelected [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\EditorSelectUtils.cpp] [Line: 319]
+[2018.05.02-01.10.53:869][931]LogOutputDevice: Error: Owner(FlyingPawn_C /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingPawn_297) of CameraComponent /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingPawn_297.Camera is not selected
+[2018.05.02-01.10.53:869][931]LogOutputDevice: Error: Stack: 
+[2018.05.02-01.10.53:869][931]LogOutputDevice: Error: [Callstack] 0x00000000E8EEBA76 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.02-01.10.53:869][931]LogOutputDevice: Error: [Callstack] 0x00000000E8C4AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.02-01.10.53:869][931]LogOutputDevice: Error: [Callstack] 0x00000000E8C5ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.02-01.10.53:869][931]LogOutputDevice: Error: [Callstack] 0x00000000E633A596 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.02-01.10.53:869][931]LogOutputDevice: Error: [Callstack] 0x00000000E6325343 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.02-01.10.53:869][931]LogOutputDevice: Error: [Callstack] 0x00000000E631203E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.02-01.10.53:869][931]LogOutputDevice: Error: [Callstack] 0x00000000E62F9329 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.02-01.10.53:870][931]LogOutputDevice: Error: [Callstack] 0x00000000E62F9C5B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.02-01.10.53:870][931]LogOutputDevice: Error: [Callstack] 0x00000000E636019B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.02-01.10.53:870][931]LogOutputDevice: Error: [Callstack] 0x00000000E63A1F9E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.02-01.10.53:870][931]LogOutputDevice: Error: [Callstack] 0x00000000E62F8FA5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.02-01.10.53:870][931]LogOutputDevice: Error: [Callstack] 0x00000000E62F3113 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.02-01.10.53:870][931]LogOutputDevice: Error: [Callstack] 0x00000000E6B70389 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.02-01.10.53:870][931]LogOutputDevice: Error: [Callstack] 0x00000000CF188C8E UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.05.02-01.10.53:870][931]LogOutputDevice: Error: [Callstack] 0x00000000CF188F7E UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.05.02-01.10.53:870][931]LogOutputDevice: Error: [Callstack] 0x00000000EDE68376 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.02-01.10.53:870][931]LogOutputDevice: Error: [Callstack] 0x00000000EDEA4BD0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.02-01.10.53:870][931]LogOutputDevice: Error: [Callstack] 0x00000000CF1989D5 UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.05.02-01.10.53:870][931]LogOutputDevice: Error: [Callstack] 0x00000000CF1728CA UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.05.02-01.10.53:870][931]LogOutputDevice: Error: [Callstack] 0x00000000CF188B71 UE4Editor-MainFrame.dll!UnknownFunction []
+[2018.05.02-01.10.53:870][931]LogOutputDevice: Error: [Callstack] 0x00000000EDE75F97 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.02-01.10.53:870][931]LogOutputDevice: Error: [Callstack] 0x00000000EDEA6417 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.02-01.10.53:870][931]LogOutputDevice: Error: [Callstack] 0x00000000EDE999C8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.02-01.10.53:870][931]LogOutputDevice: Error: [Callstack] 0x00000000F251E3DA UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.02-01.10.53:870][931]LogOutputDevice: Error: [Callstack] 0x00000000F2511B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.02-01.10.53:870][931]LogOutputDevice: Error: [Callstack] 0x00000000F252052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.02-01.10.53:871][931]LogOutputDevice: Error: [Callstack] 0x00000000F250D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.02-01.10.53:871][931]LogOutputDevice: Error: [Callstack] 0x0000000077229BBD USER32.dll!UnknownFunction []
+[2018.05.02-01.10.53:871][931]LogOutputDevice: Error: [Callstack] 0x00000000772298C2 USER32.dll!UnknownFunction []
+[2018.05.02-01.10.53:871][931]LogOutputDevice: Error: [Callstack] 0x00000000F2521666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.02-01.10.53:871][931]LogOutputDevice: Error: [Callstack] 0x000000003FC95475 UE4Editor.exe!UnknownFunction []
+[2018.05.02-01.10.53:871][931]LogOutputDevice: Error: [Callstack] 0x000000003FCA6BD0 UE4Editor.exe!UnknownFunction []
+[2018.05.02-01.10.53:871][931]LogOutputDevice: Error: [Callstack] 0x000000003FCA6C4A UE4Editor.exe!UnknownFunction []
+[2018.05.02-01.10.53:871][931]LogOutputDevice: Error: [Callstack] 0x000000003FCB4149 UE4Editor.exe!UnknownFunction []
+[2018.05.02-01.10.53:871][931]LogOutputDevice: Error: [Callstack] 0x000000003FCB5B57 UE4Editor.exe!UnknownFunction []
+[2018.05.02-01.10.53:871][931]LogOutputDevice: Error: [Callstack] 0x00000000771059CD kernel32.dll!UnknownFunction []
+[2018.05.02-01.10.53:871][931]LogOutputDevice: Error: [Callstack] 0x000000007736383D ntdll.dll!UnknownFunction []
+[2018.05.02-01.10.53:871][931]LogOutputDevice: Error: 
+[2018.05.02-01.10.53:872][931]LogStats:                SubmitErrorReport -  0.000 s
